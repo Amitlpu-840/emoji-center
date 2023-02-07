@@ -1,5 +1,5 @@
 const emojipedia = [
-  {
+  { 
     id: 1,
     emoji: "💪",
     name: "Tense Biceps",
